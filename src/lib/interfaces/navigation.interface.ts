@@ -1,4 +1,4 @@
 export interface INavigation {
-	name: string;
-	onClick: () => void;
+  name: string;
+  onClick: () => void;
 }
