@@ -28,11 +28,11 @@ Para instalar y configurar el proyecto, siga los siguientes pasos:
 
 1. Clonar el repositorio:
    ```bash
-   git clone [URL del repositorio]
+   git clone https://github.com/Ilchampo/web-walltree-global.git
    ```
 2. Navegar al directorio del proyecto:
    ```bash
-   cd [nombre-del-directorio]
+   cd web-walltree-global
    ```
 3. Instalar las dependencias:
    ```bash
