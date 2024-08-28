@@ -1,6 +1,6 @@
 # WallTree Global | Ecuador
 
-**Desarrollador:** Juan Pablo Beltran
+**Desarrollador:** Juan Pablo Beltran <br>
 **Cliente:** WallTree Global Ecuador
 
 <div align='center'>
