@@ -53,7 +53,3 @@ Para iniciar la aplicación, ejecute el siguiente comando:
 ### Desktop version
 
 ![Desktop Version](https://cdnb.artstation.com/p/assets/images/images/079/418/907/large/pablo-beltran-screencapture-localhost-5173-2024-08-28-11-16-30.jpg?1724862075)
-
-### Mobile version
-
-![Mobile Version](https://cdnb.artstation.com/p/assets/images/images/079/418/935/large/pablo-beltran-screencapture-localhost-5173-2024-08-28-11-22-05.jpg?1724862144)
