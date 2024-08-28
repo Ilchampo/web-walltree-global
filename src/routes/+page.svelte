@@ -8,8 +8,10 @@
 	import services from '$lib/constants/services';
 </script>
 
-<Purpose />
-<About />
-<Services {services} />
-<Contact />
-<Footer />
+<div>
+	<Purpose />
+	<About />
+	<Services {services} />
+	<Contact />
+	<Footer />
+</div>
