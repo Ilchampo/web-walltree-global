@@ -30,7 +30,7 @@
 				><EnvelopeSolid color="currentColor" size="lg" />
 				{$t('contact.email.title')}</span
 			>
-			<a class="ml-8" href="mailto:{$t('contact.email.email')}">{$t('contact.email.email')}</a>
+			<a class="ml-8" href="mailto:infowalltree@gmail.com">infowalltree@gmail.com</a>
 		</div>
 	</div>
 </section>
